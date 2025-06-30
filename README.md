@@ -1,5 +1,4 @@
 🚀 Siber Güvenlik Takımı Mini Projeler
-Bizim takımın yazdığı 2 basit Python projesi burada! 🎉
 
 📐 Geometrik Şekil Hesaplama
 Kare, daire, dikdörtgen, küre için alan, çevre ve hacim hesaplar.
